@@ -18,7 +18,7 @@ const About = () => {
         <Info/>
 
         <p className="about__description">
-          MERN Stack Developer, I also create web pages with UI/UX user interface and also have hands on experience in App Development.
+          MERN Stack Developer, I als create web pages with UI/UX user interface and also have hands on experience in App Development.
         </p>
 
         <a download="" href={CV} className="button button--flex">Download CV
