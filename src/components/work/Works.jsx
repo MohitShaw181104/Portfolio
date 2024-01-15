@@ -18,7 +18,7 @@ const Works = () => {
             });
             setProjects(newProjects);
         }
-    }, [item])
+    }, [item]);
 
     const handleClick = (e, index) =>{
         setItem({ name: e.target.textContent});
